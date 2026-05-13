@@ -51,9 +51,19 @@ portfolio = {
             "role": "FullStack Developer Intern",
             "type": "Hybrid",
             "duration": "March 2026 – April 2026",
-            "current": True,
+            "current": False,
             "responsibilities": [
                 "Worked as a Backend Developer Intern at Intranz, focusing on the design and development of server-side applications, APIs, and database architecture. Built and maintained scalable RESTful APIs to support front-end client applications, ensuring high performance, reliability, and security across all services. Worked closely with the development team to implement business logic, optimize database queries, and manage data models using relational and/or NoSQL databases. Gained practical experience with server management, authentication and authorization flows, error handling, and deployment pipelines. Contributed to code reviews and followed best practices in writing clean, maintainable, and well-documented backend code within an agile development environment."
+            ]
+        },
+        {
+            "company": "Jspider",
+            "role": "Python Full-Stack Developer",
+            "type": "Bengaluru",
+            "duration": "April 2026 – November 2026",
+            "current": True,
+            "responsibilities": [
+                ""
             ]
         }
     ],
