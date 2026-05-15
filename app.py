@@ -75,7 +75,7 @@ def send_email(sender_name, sender_email, message):
         <div style="padding:20px 32px;background:#f9f9f9;border-top:1px solid #eee;text-align:center;">
           <p style="color:#aaa;font-size:12px;margin:0;">
             Sent from your portfolio at
-            <a href="https://portfolio-sahil-chi.vercel.app/" style="color:#00f0ff;text-decoration:none;">portfolio-sahil-chi.vercel.app</a>
+            <a href="https://portfolio-2-0-plum.vercel.app/" style="color:#00f0ff;text-decoration:none;">portfolio-sahil-chi.vercel.app</a>
           </p>
         </div>
 
